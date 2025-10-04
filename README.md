@@ -29,20 +29,23 @@ You can also install them directly from within the notebook:
 ```python
 !pip install pdfminer.six langchain_google_genai python-docx langchain
 ```
+**Note** : API Key  of an AI Model is required (recommended Gemini)
 
 ---
 
 ## ⚙️ Usage
 
 1. **Clone the repository:** `git clone https://github.com/maglesT/projects.git`
-2. **Run the notebook** cells in order.
-3. The notebook will:
+2. **Add the API keys (Gemini)**
+3. **Specify the PDF path**
+3. **Run the notebook** cells in order.
+4. The notebook will:
 
    * Extract and clean text from the PDF.
    * Split it into sections.
    * Generate AI-based summaries for each section.
    * Export a formatted `.docx` file.
-4. **Download your summarized document** when prompted (usually named `final_notes_with_images_new.docx`).
+5. **Summarized Note & Detailed Note  will be generated in the root directory**
 
 ---
 
