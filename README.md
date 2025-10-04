@@ -34,7 +34,7 @@ You can also install them directly from within the notebook:
 
 ## ⚙️ Usage
 
-1. **Upload the PDF** you want to summarize.
+1. **Clone the repository:** `git clone https://github.com/maglesT/projects.git`
 2. **Run the notebook** cells in order.
 3. The notebook will:
 
