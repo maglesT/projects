@@ -1,5 +1,3 @@
-
-````markdown
 # 📄 LLM-Based PDF Summarizer & Notes Generator
 
 This project automates the process of **extracting, cleaning, and summarizing** content from PDF files using **Large Language Models (LLMs)** via **LangChain** and **Google Generative AI**.  
