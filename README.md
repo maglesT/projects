@@ -59,18 +59,6 @@ You can also install them directly from within the notebook:
 
 ---
 
-## 📂 Output Example
-
-Example output file:
-
-```
-final_notes_with_images_new.docx
-```
-
-A neatly formatted summary document with each PDF section condensed into short, readable notes.
-
----
-
 ## 🧾 License
 
 This project is open source and available under the [MIT License](LICENSE).
